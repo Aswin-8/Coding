@@ -1,3 +1,6 @@
+
+/*program to check the characters are unique in a word*/
+
 #include <stdio.h>
 
 int main()
